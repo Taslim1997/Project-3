@@ -1,0 +1,1 @@
+I went to Control Panel>User Accounts>Manage Windows Credentials and removed the github credentials. Then i tried git push again and this time it asked for new login information and I could change it and do the job!
